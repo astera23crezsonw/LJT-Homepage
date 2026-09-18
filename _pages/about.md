@@ -16,7 +16,7 @@ My research focuses on natural language processing and machine learning. My rese
 
 I am also a Research Intern at [MINIMAX](https://www.minimaxi.com/) since February 2025. Previously, I was a Research Intern at [Tencent WXG](https://xg.qq.com/) (June 2024 - September 2024), advised by [Zifei Shan](https://shanzifei.github.io/), and a Research Intern at [Shanghai AI Lab](https://www.shlab.org.cn/) (June 2023 - December 2023), advised by [Prof. Yu Cheng](https://yucheng.github.io/).
 
-For more details, please refer to my [Publications](publications).
+For more details, please refer to my [Publications](/LJT-Homepage/publications/).
 
 Education
 ======
